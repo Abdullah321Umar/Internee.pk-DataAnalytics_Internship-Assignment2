@@ -111,7 +111,7 @@ Author — Abdullah Umar, Data Analytics Intern at Internee.pk 💼📊
 
 ---
 
-### Super Store Sales Analysis Dashboard Preview:-
+### Plots Preview:-
 ![Preview](https://github.com/Abdullah321Umar/Internee.pk-DataAnalytics_Internship-Assignment2/blob/main/Introduction.png)
 ![Preview](https://github.com/Abdullah321Umar/Internee.pk-DataAnalytics_Internship-Assignment2/blob/main/Name%20%26%20About%20Section.png)
 ![Preview](https://github.com/Abdullah321Umar/Internee.pk-DataAnalytics_Internship-Assignment2/blob/main/Academic%20Background.png)
